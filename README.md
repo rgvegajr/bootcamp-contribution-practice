@@ -29,7 +29,7 @@ Stage your changes using the "add" command.
 Commit them with a breif message as to what you added.
 Then Push your changes back to your origin (Your forked repo)
 
-## Step 5
+## Step 5 - Pull Request - Merge To Master
 Submit a PR Request so I can merge it with the original repo.
 
 ## DISCLAIMER
