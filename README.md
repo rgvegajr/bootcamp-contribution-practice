@@ -26,7 +26,7 @@ Open the `index.html` into your text editor and be sure to read all the `comment
 
 ## Step 4 - Add, Commit, Push
 Stage your changes using the "add" command.
-Commit them with a breif message as to what you added.
+Commit them with a brief message as to what you added.
 Then Push your changes back to your origin (Your forked repo)
 
 ## Step 5 - Pull Request - Merge To Master
@@ -34,3 +34,5 @@ Submit a PR Request so I can merge it with the original repo.
 
 ## DISCLAIMER
 Always make sure you "pull" before making any changes or pushes to ensure you've got the most up to date files.
+Your fork may no longer match the master once additional changes are made.
+If you have questions - search github for how to `sync your fork with the master.`
