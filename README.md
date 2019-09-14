@@ -15,22 +15,22 @@ Be sure to read them all thoroughly to avoid any unnecessary issues.
 
 Don't worry I tried to make it as simple as copy, paste, & edit.
 
-#Step 1 - Fork It
+## Step 1 - Fork It
 Make sure click the tiny "fork" button on the top right to fork a copy to your own repo.
 
-#Step 2 - Clone It
+## Step 2 - Clone It
 Clone your forked repo onto your computer using Git
 
-#Step 3 - Edit!
+## Step 3 - Edit!
 Open the `index.html` into your text editor and be sure to read all the `comments` i've place dinside the file so you can properly make add your info to the page.
 
-#Step 4 - Add, Commit, Push
+## Step 4 - Add, Commit, Push
 Stage your changes using the "add" command.
 Commit them with a breif message as to what you added.
 Then Push your changes back to your origin (Your forked repo)
 
-#Step 5
+## Step 5
 Submit a PR Request so I can merge it with the original repo.
 
-#DISCLAIMER
+## DISCLAIMER
 Always make sure you "pull" before making any changes or pushes to ensure you've got the most up to date files.
